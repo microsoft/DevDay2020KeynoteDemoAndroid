@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Group Chat</string>
+    <string name="title_activity_reply">ReplyActivity</string>
+</resources>
